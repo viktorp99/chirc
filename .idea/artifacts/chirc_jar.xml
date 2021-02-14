@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chirc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chirc_jar</output-path>
+    <root id="archive" name="chirc.jar">
+      <element id="module-output" name="chirc" />
+    </root>
+  </artifact>
+</component>
